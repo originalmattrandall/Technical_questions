@@ -1,1 +1,1 @@
-# interview_questions
+# Technical Questions

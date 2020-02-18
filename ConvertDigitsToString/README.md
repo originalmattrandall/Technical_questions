@@ -1,5 +1,3 @@
-# Technical Questions
-
 ### StringNumberRepresentation
 
 Write a function that accepts an integer and returns the English string representation of that integer.
